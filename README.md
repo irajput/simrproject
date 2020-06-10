@@ -1,5 +1,4 @@
-# simrproject
-Hidden Diagnostic Signals: A Machine Learning Approach to Major Depressive Disorder Prediction using Topic-Restricted Text Data
+# Hidden Diagnostic Signals: A Machine Learning Approach to Major Depressive Disorder Prediction using Topic-Restricted Text Data
 
 A Deep Learning Query: Predicting MDD
 
